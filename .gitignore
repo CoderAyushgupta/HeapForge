@@ -1,0 +1,11 @@
+build/
+bin/
+heapforge
+results/
+*.o
+*.a
+*.d
+*.swp
+.vscode/
+.idea/
+core
